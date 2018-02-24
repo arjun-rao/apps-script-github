@@ -56,7 +56,7 @@ function fetch(url) {
   var parsed_response = JSON.parse(response);
   return parsed_response;
 }
-
+```
 
 ## Step 4 
 
